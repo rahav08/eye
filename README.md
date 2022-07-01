@@ -17,3 +17,5 @@ Simple HTML and Javascript project displaying eye pupil movement
 <h2>Project Roadmap</h2>
 Create an entire face or change the layout of the eyes
 
+<h2>License<h2>
+Ramarahavendar/eye is licensed under the MIT License
